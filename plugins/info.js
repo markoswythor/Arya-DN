@@ -3,11 +3,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠═〘 INFO BOT 〙 ═
 ╠➥ Dibuat dengan bahasa javascript via NodeJs
 ╠➥ Rec: Drawl Nag
-╠➥ Script: @Nurotomo
-║
-╠➥ Github: https://github.com/Arya274/Arya-DN
-╠➥ Instagram: @arpunchs
-╠➥ YouTube: Drawl Nag
+╠➥ Script: @Markoswythor
+╠➥ Github: https://github.com/markoswythor
+╠➥ Instagram: @markowythor
+╠➥ YouTube: none
 ║
 ╠═〘 Thanks To 〙 ═
 ╠➥ Nurotomo
