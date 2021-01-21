@@ -10,9 +10,9 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-DN
+5) $git clone https://github.com/markoswythor
 6) $ls
-7) $cd Arya-DN
+7) $cd (pasta q vc escolheu)
 
 yang *terakhirr*..
 Penginstalannya cuy :)
